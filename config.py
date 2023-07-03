@@ -1,0 +1,3 @@
+GOLDEN_ORG = ''
+ADP_ORGS = []
+
