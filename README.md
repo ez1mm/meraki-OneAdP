@@ -21,7 +21,7 @@ python -m pip install -r requirements.txt
 export APIKEY=<apikey>
 ```
 Golden Organization can be specified via config file or via command line.
-Destination Orgs can be defined in config file, if none defined, Golden Config will push to all eligible Orgs
+Destination Orgs can be defined in config file, if none defined, Golden Config will push to all eligible Orgs.
 Config file takes precedence over command line options.
 
 `config.py` Configuration file for Golden Org and Destination Orgs
